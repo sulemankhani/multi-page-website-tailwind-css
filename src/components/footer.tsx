@@ -149,7 +149,7 @@ function Footer() {
                 text-center xsm:text-left
                 text-[14px] 
                 leading-[21px]
-                '>2023 Suleman Khan. All right reserved.</p>
+                '>2024 Suleman Khan. All right reserved.</p>
 
                 <div className='
                 flex 
